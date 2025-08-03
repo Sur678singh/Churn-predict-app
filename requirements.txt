@@ -1,4 +1,5 @@
 scikit-learn
+imbalanced-learn== 0.13.0
 streamlit
 pandas
 numpy
